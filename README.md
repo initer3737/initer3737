@@ -1,4 +1,4 @@
-- <a href="https://www.instagram.com/puthutwahyuaji/" target="_blank">Instagram</a> || <a href="https://www.instagram.com/puthutwahyuaji/" target="_blank">Twiter</a>
+- <a href="https://www.instagram.com/puthutwahyuaji/" target="_blank">Instagram</a> || <a href="https://twitter.com/puthutwahkyu/" target="_blank">Twiter</a>
 - <a href="https://initer3737.github.io/course" target="_blank">website</a>
 - <a href="https://initer3737.github.io/" target="_blank">Portofolio</a>
 
