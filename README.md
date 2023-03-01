@@ -1,5 +1,5 @@
 - <a href="https://www.instagram.com/yotsusan_machi/" target="_blank">Instagram</a> 
-- <a href="https://initer3737.github.io/course/#/course" target="_blank">website</a>
+- <a href="https://course-4dr4n0zwn-initer3737.vercel.app/" target="_blank">website</a>
 - <a href="https://initer3737.github.io/" target="_blank">Portofolio</a>
 
 <!---
