@@ -55,8 +55,8 @@
 
 ###
 
+<!-- <img align="left" height="200" src="https://initer3737.github.io/static/media/vika.2ed2ee9539a126820087.gif"  /> -->
 <img align="left" height="200" src="https://initer3737.github.io/static/media/vika.2ed2ee9539a126820087.gif"  />
-
 ###
 <!---
 initer3737/initer3737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
