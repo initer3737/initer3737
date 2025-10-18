@@ -1,10 +1,16 @@
 <!-- - <a href="https://www.instagram.com/yotsusan_machi/" target="_blank">Instagram</a> 
 - <a href="https://language-rho.vercel.app/" target="_blank">website</a>
 - <a href="https://initer3737.github.io/" target="_blank">Portofolio</a> -->
-<br clear="both">
+<!-- <br clear="both"> -->
 
-<h1 align="center">ohayou minnasan</h1>
-
+<h1 align="center">see web ui ,recreate it ,analize it, solve it</h1>
+<hr>
+<h3 align="center" style="padding-left:1.23rem;">anime for life</h3>
+<hr>
+<h3 align="center" style="padding-left:1.26rem;color:blue;">interested in ui of aplication ,create ui for better user experience </h3>
+<hr>
+<h4 align="center" style="padding-left:1.26rem;">also interest in ui animations that stuning</h4>
+<hr>
 ###
 
 <div align="left">
