@@ -6,10 +6,11 @@
 <h1 align="center">see web ui ,recreate it ,analize it, solve it</h1>
 <hr>
 <h3 align="center" style="padding-left:1.23rem;">anime for life</h3>
+<img align="left" height="600" src="fuuki-lincho.jpg" />
 <hr>
 <h3 align="center" style="padding-left:1.26rem;color:blue;">interested in ui of aplication ,create ui for better user experience </h3>
 <hr>
-<h4 align="center" style="padding-left:1.26rem;">also interest in ui animations that stuning</h4>
+<h4 align="center" style="padding-left:1.26rem;">also interest in ui animations that stuning to see</h4>
 <hr>
 ###
 
@@ -44,7 +45,7 @@
   <a href="https://www.youtube.com/channel/UClsfa0LkA3_YMsFjW1M__sw" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/yotsusan_machi/" target="_blank">
+  <a href="https://www.instagram.com/crimson_rose_37/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -62,7 +63,15 @@
 ###
 
 <!-- <img align="left" height="200" src="https://initer3737.github.io/static/media/vika.2ed2ee9539a126820087.gif"  /> -->
-<img align="left" height="200" src="vika.gif" />
+<!-- <img align="left" height="200" src="vika.gif" /> -->
+<div style="display:flex;gap:1.25rem;">
+  <img height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
+  <img height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
+  <img height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
+  <img height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
+</div>
+
+
 ###
 <!---
 initer3737/initer3737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
