@@ -7,8 +7,9 @@
 <hr>
 <h3 align="center" style="padding-left:1.23rem;">anime for life</h3>
 <div style="display:flex;flex-flow:nowrap column;gap:1.25rem;">
-  <img align="left" height="600" src="fuuki-lincho.jpg" />
-  <h2>fuuki lincho</h2>
+  <!-- <img align="left" height="600" src="fuuki-lincho.jpg" /> -->
+    <img width="220" height="600" src="amakusagif-seitokai.gif" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <h2>amakusa shino</h2>
 </div>
 <hr>
 <h3 align="center" style="padding-left:1.26rem;color:blue;">interested in ui of aplication ,create ui for better user experience </h3>
@@ -73,7 +74,7 @@
   <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
   <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
   <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%; aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="amakusa2-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
   <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
   <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
   <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
