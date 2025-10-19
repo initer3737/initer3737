@@ -6,7 +6,10 @@
 <h1 align="center">see web ui ,recreate it ,analize it, solve it</h1>
 <hr>
 <h3 align="center" style="padding-left:1.23rem;">anime for life</h3>
-<img align="left" height="600" src="fuuki-lincho.jpg" />
+<div style="display:flex;flex-flow:nowrap column;gap:1.25rem;">
+  <img align="left" height="600" src="fuuki-lincho.jpg" />
+  <h2>fuuki lincho</h2>
+</div>
 <hr>
 <h3 align="center" style="padding-left:1.26rem;color:blue;">interested in ui of aplication ,create ui for better user experience </h3>
 <hr>
@@ -65,14 +68,15 @@
 <!-- <img align="left" height="200" src="https://initer3737.github.io/static/media/vika.2ed2ee9539a126820087.gif"  /> -->
 <!-- <img align="left" height="200" src="vika.gif" /> -->
 <div style="display:flex;gap:1.25rem;">
-  <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
+  <section>
+  <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
   <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%; aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%; margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
 </div>
 
 
