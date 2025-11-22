@@ -1,20 +1,21 @@
-<!-- - <a href="https://www.instagram.com/yotsusan_machi/" target="_blank">Instagram</a> 
-- <a href="https://language-rho.vercel.app/" target="_blank">website</a>
-- <a href="https://initer3737.github.io/" target="_blank">Portofolio</a> -->
-<!-- <br clear="both"> -->
 
-<h1 align="center">see web ui ,recreate it ,analize it, solve it</h1>
+<h1 align="center">sphagety code that u create , fix bug from day to night , destiny that make our deadline near to chaos</h1>
+<h1 align="center">basic code that learn , build 12 milion dolar company, wake up from the sleep</h1>
 <hr>
-<h3 align="center" style="padding-left:1.23rem;">anime for life</h3>
+<h3 align="center" style="padding-left:1.23rem;">earth that accompany us, water that can avoid , air flows in the crows feather</h3>
 <div style="display:flex;flex-flow:nowrap column;gap:1.25rem;">
-  <!-- <img align="left" height="600" src="fuuki-lincho.jpg" /> -->
-    <img width="220" height="600" src="./imgs/amakusagif-seitokai.gif" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <h2>amakusa shino</h2>
+    <img width="220" height="600" src="./imgs/7.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <h2>haiku</h2>
+  <ul>
+    <li>cahaya yang masuk diantara kita , tembok yang memenjarakan , tiga puluh impian suci</li>
+    <li>the light that enter between us , wall that imprison , thirty sacred dreams</li>
+    <li>10x enginer that say "25 years experience" , math that can solve problem[10x=25;x=25/10;x=2.5] , 2.5 years reality</li>
+  </ul>
 </div>
 <hr>
-<h3 align="center" style="padding-left:1.26rem;color:blue;">interested in ui of aplication ,create ui for better user experience </h3>
+<h3 align="center" style="padding-left:1.26rem;color:blue;">watermelon in the garden , light that luminate by , rising from the east</h3>
 <hr>
-<h4 align="center" style="padding-left:1.26rem;">also interest in ui animations that stuning to see</h4>
+<h4 align="center" style="padding-left:1.26rem;">from the river that contain fish , flag rising from the east , fly free middle age bird</h4>
 <hr>
 ###
 
@@ -66,18 +67,16 @@
 
 ###
 
-<!-- <img align="left" height="200" src="https://initer3737.github.io/static/media/vika.2ed2ee9539a126820087.gif"  /> -->
-<!-- <img align="left" height="200" src="vika.gif" /> -->
 <div style="display:flex;gap:1.25rem;">
   <section>
-  <img width="220" height="600" src="./imgs/fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/fuuki-lincho.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/amakusa-seitokai.webp" style="border-radius:50%; aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/amakusa2-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <img width="220" height="600" src="./imgs/amakusa-seitokai.webp" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/1.png" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/2.png" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/3.png" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/4.png" style="border-radius:50%; aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/5.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/6.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/7.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
+  <img width="220" height="600" src="./imgs/8.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
 </div>
 
 
