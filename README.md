@@ -1,21 +1,22 @@
 
-<h1 align="center">sphagety code that u create , fix bug from day to night , destiny that make our deadline near to chaos</h1>
-<h1 align="center">basic code that learn , build 12 milion dolar company, wake up from the sleep</h1>
+<h1 align="center">learning everyday bit by bit</h1>
+<h1 align="center">become front end web development is my dream</h1>
 <hr>
-<h3 align="center" style="padding-left:1.23rem;">earth that accompany us, water that can avoid , air flows in the crows feather</h3>
+<h3 align="center" style="padding-left:1.23rem;">i also like haiku</h3>
 <div style="display:flex;flex-flow:nowrap column;gap:1.25rem;">
     <img width="220" height="600" src="./imgs/7.jpg" style="border-radius:50%;  aspect-ratio:16/9;margin:1.25rem;display:inline-block;"/>
-  <h2>haiku</h2>
+  <h2>my purpose</h2>
   <ul>
-    <li>cahaya yang masuk diantara kita , tembok yang memenjarakan , tiga puluh impian suci</li>
-    <li>the light that enter between us , wall that imprison , thirty sacred dreams</li>
-    <li>10x enginer that say "25 years experience" , math that can solve problem[10x=25;x=25/10;x=2.5] , 2.5 years reality</li>
+    <li>learn 1 day 1 hours</li>
+    <li>read online documents</li>
+    <li>build some app</li>
   </ul>
 </div>
 <hr>
+<h1>haiku</h1>h1>
 <h3 align="center" style="padding-left:1.26rem;color:blue;">watermelon in the garden , light that luminate by , rising from the east</h3>
 <hr>
-<h4 align="center" style="padding-left:1.26rem;">from the river that contain fish , flag rising from the east , fly free middle age bird</h4>
+<h4 align="center" style="padding-left:1.26rem;">from the river that contain fish , flag rising from the east , fly free middle age person bird</h4>
 <hr>
 ###
 
